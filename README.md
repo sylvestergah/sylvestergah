@@ -1,4 +1,4 @@
-I’m good but bad at coding 😭
+I’m ok 👍👍👍
 
 <!---
 sylvestergah/sylvestergah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
