@@ -1,4 +1,4 @@
-# Hi there, I'm Sylvester goh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+# Hi there, I'm Sylvester <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
 ***About me***
@@ -73,6 +73,10 @@ I’m a student who's currently exploring real-life applications of AI, includin
 
 
 <br>
+
+---
+
+🐍
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
