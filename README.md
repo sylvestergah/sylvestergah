@@ -18,10 +18,6 @@
 [![](https://visitcount.itsvg.in/api?id=sylvestergah&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
-</div>
 
 <!---
 sylvestergah/sylvestergah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
