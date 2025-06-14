@@ -74,6 +74,10 @@ I’m a student who's currently exploring real-life applications of AI, includin
 
 <br>
 
+### Portfolio?
+> [!HERE]  
+> <a href="https://sylvestergoh54321.wixsite.com/websitee" > :D</a>
+
 ---
 
 🐍
